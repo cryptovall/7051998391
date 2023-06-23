@@ -5,6 +5,6 @@
     "md3": "6aa7e5573a6cb665d22a7a21583c866e",
     "md10": "fdb1c569639d775a62da10f9f57fdf70",
     "val": "5206602a3be6f6bae816e81875c5716f",
-    "loader": "236fb8d70fbd21083a38e232fa383293"
+    "loader": "84529a7c91019b9f979167dbab0aaab3"
   }
 }
