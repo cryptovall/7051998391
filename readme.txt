@@ -6,5 +6,6 @@
     "md10": "fdb1c569639d775a62da10f9f57fdf70",
     "val": "dc61ddad0eb95557de58b8be8f167fe4",
     "loader": "752e1d8a15e6e684948aba0837c78224"
+    "ver": 0x2f0000000e0001
   }
 }
